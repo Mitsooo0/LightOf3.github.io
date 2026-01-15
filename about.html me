@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About & Contact</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <h1>About Me</h1>
+  </header>
+
+  <!-- Main content -->
+  <main>
+    <section class="about-contact">
+      <h2>My Story</h2>
+      <p>Hi! I'm a teen entrepreneur and the creator of this shop. I love designing clothing and sharing high-quality items with my customers. I’m friendly, kind, and just trying to make some money while doing something I enjoy!</p>
+
+      <h2>Contact</h2>
+      <ul>
+        <li>Email: <a href="mailto:zervogiannisdima@gmail.com">zervogiannisdima@gmail.com</a></li>
+        <li>Discord: <a href="https://discord.com/users/ahhuser" target="_blank">ahhuser</a></li>
+      </ul>
+
+      <h2>Shop Policies</h2>
+      <ul>
+        <li>All sales are final — no refunds, as we provide the best quality clothing.</li>
+        <li>Make sure your measurements are correct before ordering; I provide all sizes accurately.</li>
+        <li>Respectful communication is appreciated — I’m here to help, but please understand this is a small, teen-run business.</li>
+      </ul>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2026 My Shop</p>
+    <p><a href="index.html">Back to Shop</a></p>
+  </footer>
+
+</body>
+</html>
